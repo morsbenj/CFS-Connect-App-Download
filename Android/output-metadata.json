@@ -13,7 +13,7 @@
       "attributes": [],
       "versionCode": 2,
       "versionName": "0.2.0",
-      "outputFile": "cfs_connect_android_download.apk"
+      "outputFile": "app-release.apk"
     }
   ],
   "elementType": "File"
