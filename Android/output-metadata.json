@@ -4,14 +4,14 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.example.flutter_chat_custom",
+  "applicationId": "ink.cfs.cfs_connect",
   "variantName": "release",
   "elements": [
     {
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 13,
+      "versionCode": 15,
       "versionName": "0.2.6",
       "outputFile": "app-release.apk"
     }
