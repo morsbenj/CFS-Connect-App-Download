@@ -11,9 +11,9 @@
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 28,
-      "versionName": "0.2.11",
-      "outputFile": "cfs_connect_android_download.apk"
+      "versionCode": 35,
+      "versionName": "0.2.18",
+      "outputFile": "app-release.apk"
     }
   ],
   "elementType": "File",
